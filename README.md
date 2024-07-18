@@ -16,5 +16,5 @@ Duo API hostname
 ## Deploy from RMM
 Powershell one-liner for easy use in an RMM.
 
-` $downloadURI = 'https://raw.githubusercontent.com/dweger-scripts/Install-Duo.ps1/main/Install-Duo_v2.ps1'; $script = 'C:\temp\Install-Duo.ps1'; Invoke-WebRequest -URI $downloadURI -Outfile $script `
+` $downloadURI = 'https://raw.githubusercontent.com/dweger-scripts/Install-Duo.ps1/main/Install-Duo.ps1'; $script = 'C:\temp\Install-Duo.ps1'; Invoke-WebRequest -URI $downloadURI -Outfile $script `
 
